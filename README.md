@@ -1,6 +1,6 @@
 # Assignment Module 18
 
-### _Name- Tanvirul Alam. Contact- +8801628224514_
+### _Name- Mazbaul Islam. Contact- +8801761347520_
 
 ## Task 1: Create a new migration file to add a new table named "categories" to the database.
 
